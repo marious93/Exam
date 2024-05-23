@@ -1,4 +1,4 @@
-package com.company.details;
+package lesson2.com.company.details;
 
 public class Engine {
     String name;
